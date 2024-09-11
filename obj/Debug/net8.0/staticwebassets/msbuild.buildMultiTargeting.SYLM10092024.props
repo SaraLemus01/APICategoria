@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SYLM10092024.props" />
+</Project>
